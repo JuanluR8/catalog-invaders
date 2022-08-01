@@ -1,0 +1,20 @@
+{
+  "name": "catalog-invaders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "solve": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanluR8/catalog-invaders.git"
+  },
+  "author": "JuanluR8",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanluR8/catalog-invaders/issues"
+  },
+  "homepage": "https://github.com/JuanluR8/catalog-invaders#readme"
+}
